@@ -13,5 +13,6 @@ namespace Client
             System.Console.Write("This is my first line of code");
         }
         static int Multiplay(int a , int b) => a * b;
+        static int Sum(int a , int b) => a + b;
     }
 }
