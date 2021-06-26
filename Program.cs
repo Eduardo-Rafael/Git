@@ -14,5 +14,6 @@ namespace Client
         }
         static int Multiplay(int a , int b) => a * b;
         static int Sum(int a , int b) => a + b;
+        static int Minus(int a , int b) => a - b;
     }
 }
