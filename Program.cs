@@ -10,6 +10,7 @@ namespace Client
     {
         static void Main(string[] args)
         {
+            System.Console.Write("This is my first line of code");
         }
     }
 }
